@@ -4,10 +4,6 @@ import java.util.*;
 import java.util.stream.Stream;
 
 class Solution {
-
-
-
-
     private void p(ListNode head) {
         ListNode c=head;
         while(c!=null){
