@@ -1,12 +1,6 @@
-package com.example.interview.inter;
+package com.example.interview.Notes;
 
-import java.util.Arrays;
-import java.util.Map;
-import java.util.concurrent.BlockingDeque;
 import java.util.concurrent.ExecutorService;
-import java.util.concurrent.ThreadPoolExecutor;
-import java.util.concurrent.TimeUnit;
-import java.util.stream.Collectors;
 
 public class N4 {
     /*lazy vs eager loading: lazy  load when needed,   eager load all before run(default)

@@ -1,7 +1,4 @@
-package com.example.interview.inter;
-
-import java.util.*;
-import java.util.stream.Stream;
+package com.example.interview.leetcodesht;
 
 class Solution {
     private void p(ListNode head) {
