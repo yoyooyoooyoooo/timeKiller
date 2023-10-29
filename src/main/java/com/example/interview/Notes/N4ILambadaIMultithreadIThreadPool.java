@@ -1,8 +1,6 @@
 package com.example.interview.Notes;
 
-import java.util.concurrent.ExecutorService;
-
-public class N4 {
+public class N4ILambadaIMultithreadIThreadPool {
     /*lazy vs eager loading: lazy  load when needed,   eager load all before run(default)
     stream:intermediate operation   |  terminal operation
 
