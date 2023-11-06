@@ -1,15 +1,17 @@
 package com.example.interview.leetcodesht;
 
-class Solution {
-    private void p(ListNode head) {
-        ListNode c=head;
-        while(c!=null){
-            System.out.println();
-            c=c.next;
-        }
-    }
+import java.util.ArrayList;
 
-     private class TreeNode {
+class Solution {
+
+
+
+
+
+
+
+
+    private class TreeNode {
      int val;
      TreeNode left;
       TreeNode right;
