@@ -21,7 +21,7 @@ AOP:
  */
 
 
-public class N8 {
+public class N8IDIIBeanScopeIAOP {
     public static void main(String[] args) {}
 
 

@@ -13,7 +13,7 @@ package com.example.interview.Notes;
     @Requestmapping  flex maping
 
  */
-public class N9 {
+public class N9ISpringMVCISprintBootIRestAPI {
     public static void main(String[] args) {
 
     }
